@@ -66,7 +66,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Date: 2019/04 - 2019/08
 
 ## Publications
-* Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "CogCM: Cognition-Inspired Contextual Modeling for Audio Visual Speech Enhancement", *ICCV* 2025.
+* Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "CogCM: Cognition-Inspired Contextual Modeling for Audio Visual Speech Enhancement", *ICCV* 2025. [[Project Page]]( https://SoarCld.github.io/CogCM/)
   
 * Zhaoxin Yuan, Shuang Yang, Shiguang Shan, Xilin Chen, "Not Only Vision: Evolve Visual Speech Recognition via Peripheral Information", *ICCV* 2025.
   
