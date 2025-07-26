@@ -30,7 +30,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 ## Datasets
 
-### CAS-VSR-MOV20: A dataset for VSR in HARD conditions, including diversed lighting, pose, blur samples, MAVSR-2025@FG
+### CAS-VSR-MOV20: A dataset for VSR in diversed HARD practical conditions, MAVSR-2025@FG
   **CAS-VSR-MOV20** is a Mandarin audio visual speech analysis dataset, sourced from publicly available platforms such as YouTube and movies.
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20)
   
