@@ -29,13 +29,12 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 [**2021-06**]: Champion of the AVA Active Speaker Challenge @ CVPR 2021! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-Hang and Su-San!
 
 ## Datasets
-
 ### CAS-VSR-MOV20: A dataset for VSR in diversed HARD practical conditions, MAVSR-2025@FG
-  **CAS-VSR-MOV20** is a Mandarin audio visual speech analysis dataset, sourced from publicly available platforms such as YouTube and movies.
+  This is a Mandarin audio visual speech analysis dataset for exploring the practical performance of existing VSR models in hard cases, inlucding diversed lighting, blue, pose conditions, and so on.
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20)
   
 ### CAS-VSR-S101: A dataset for sentence-level audio visual speech analysis, CVPR 2024
-  **CAS-VSR-S101** is a Mandarin audio visual speech analysis dataset, involving almost all common Chinese characters and numbers of speakers speaking in diversed visual settings.
+  This is a Mandarin audio visual speech analysis dataset, involving almost all common Chinese characters and numbers of speakers speaking in diversed visual settings.
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
   * Paper Link: [CAS-VSR-S101 paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf)
 
@@ -47,7 +46,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * SOTA Accuracies: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
 
 ### CAS-VSR-S68: A dataset for lip reading with unseen speakers, BMVC 2023
-  **CAS-VSR-S68** is a lip reading dataset designed for evaluation of the extreme setting where the speech content is highly diverse, involving almost all common Chinese characters while the number of speakers is limited.
+  This lip reading dataset is designed for evaluation of speaker-adaptive/speaker-aware VSR in an extreme setting where the speech content is highly diverse (involving almost all common Chinese characters) while the number of speakers is limited.
   * Dataset Link: [https://github.com/jinchiniao/CAS-VSR-S68](https://github.com/jinchiniao/CAS-VSR-S68)
   * Paper Link: [https://arxiv.org/abs/2310.05058](https://arxiv.org/abs/2310.05058)
 
