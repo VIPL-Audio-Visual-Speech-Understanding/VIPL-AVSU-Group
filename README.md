@@ -41,8 +41,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
-  * Dataset Link：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
-  * Application Agreement: [link1](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf) or [link2](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) 
+  * Dataset Link：[https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html](https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html)  
+  * Agreement: [link1](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf) or [link2](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) 
   * Codes: DenseNet3D [@fengdalu](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D) [@NirHeaven](https://github.com/NirHeaven/D3D)
   * SOTA Accuracies: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
 
