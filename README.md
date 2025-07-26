@@ -30,11 +30,14 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 ## Datasets
 
+### CAS-VSR-MOV20: A dataset for VSR in HARD conditions, including diversed lighting, pose, blur samples, MAVSR-2025@FG
+  **CAS-VSR-MOV20** is a Mandarin audio visual speech analysis dataset, sourced from publicly available platforms such as YouTube and movies.
+  * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20)
+  
 ### CAS-VSR-S101: A dataset for sentence-level audio visual speech analysis, CVPR 2024
   **CAS-VSR-S101** is a Mandarin audio visual speech analysis dataset, involving almost all common Chinese characters and numbers of speakers speaking in diversed visual settings.
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
   * Paper Link: [CAS-VSR-S101 paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf)
-  > *Note:* You can download the agreement file [here]([https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
@@ -42,13 +45,13 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Application Agreement: [link1](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf) or [link2](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) 
   * Codes: DenseNet3D [@fengdalu](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D) [@NirHeaven](https://github.com/NirHeaven/D3D)
   * SOTA Accuracies: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
-  > *Note:* If you cannot open the website for the dataset, you can go to the paper page for details about the data, and then download the agreement file [here](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) in this repository if you plan to use this dataset for your research. Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 
 ### CAS-VSR-S68: A dataset for lip reading with unseen speakers, BMVC 2023
   **CAS-VSR-S68** is a lip reading dataset designed for evaluation of the extreme setting where the speech content is highly diverse, involving almost all common Chinese characters while the number of speakers is limited.
   * Dataset Link: [https://github.com/jinchiniao/CAS-VSR-S68](https://github.com/jinchiniao/CAS-VSR-S68)
   * Paper Link: [https://arxiv.org/abs/2310.05058](https://arxiv.org/abs/2310.05058)
-  > *Note:* You can download the agreement file [here](https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
+
+  
 ## Challenges
 ### 2025-The 2nd Mandarin Audio-Visual Speech Recognition Challenge (MAVSR) @ IEEE FG
   Welcome to the competition!
