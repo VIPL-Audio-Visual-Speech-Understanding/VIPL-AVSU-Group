@@ -4,6 +4,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 ## Recent News: 
 
+[**2025-07**]: 1 paper is accepted by BMVC 2025! Congratulations to Tian-Yue!
+
 [**2025-06**]: 2 papers are accepted by IEEE ICCV 2025! Congratulations to Fei-Xiang and Zhao-Xin!
 
 [**2025-05**]: 1 paper is accepted by IEEE FG 2025! Congratulations to Song-Tao!
@@ -66,6 +68,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Date: 2019/04 - 2019/08
 
 ## Publications
+* Tianyue Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition", *BMVC* 2025.
+
 * Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "CogCM: Cognition-Inspired Contextual Modeling for Audio Visual Speech Enhancement", *ICCV* 2025. [[Project Page]]( https://SoarCld.github.io/CogCM/)
   
 * Zhaoxin Yuan, Shuang Yang, Shiguang Shan, Xilin Chen, "Not Only Vision: Evolve Visual Speech Recognition via Peripheral Information", *ICCV* 2025.
