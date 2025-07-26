@@ -39,7 +39,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
   * Paper Link: [CAS-VSR-S101 paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf)
 
-### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
+### CAS-VSR-W1k (LRW-1000): A naturally-distributed large-scale benchmark for lip reading, FG 2019
   The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
   * Dataset Link：[https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html](https://vipl.ict.ac.cn/resources/databases/201810/t20181017_32714.html)  
   * Agreement: [link1](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf) or [link2](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) 
