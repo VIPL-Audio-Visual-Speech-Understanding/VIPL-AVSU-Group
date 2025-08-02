@@ -69,7 +69,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Date: 2019/04 - 2019/08
 
 ## Publications
-* Tianyue Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition", *BMVC* 2025.
+* Tianyue Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition", *BMVC* 2025, (**Oral**).
 
 * Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "CogCM: Cognition-Inspired Contextual Modeling for Audio Visual Speech Enhancement", *ICCV* 2025. [[Project Page]]( https://SoarCld.github.io/CogCM/)
   
