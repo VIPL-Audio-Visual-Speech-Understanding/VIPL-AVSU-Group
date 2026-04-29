@@ -4,6 +4,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 ## Recent News: 
 
+[**2026-04**]: 1 paper is accepted by ICPR 2026! Congratulations to Yu-Heng!
+
 [**2025-07**]: 1 paper is accepted by BMVC 2025! Congratulations to Tian-Yue!
 
 [**2025-06**]: 2 papers are accepted by IEEE ICCV 2025! Congratulations to Fei-Xiang and Zhao-Xin!
