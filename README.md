@@ -71,7 +71,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Date: 2019/04 - 2019/08
 
 ## Publications
-* Yuheng Fan, Shuang Yang, Shiguang Shan, Xilin Chen, "MuS: Multilingual Synergy with Shared Representations for Visual Speech Recognition", *ICPR* 2026,
+* Yuheng Fan, Shuang Yang, Shiguang Shan, Xilin Chen, "MuS: Multilingual Synergy with Shared Representations for Visual Speech Recognition", *ICPR* 2026, (**Oral**).
   
 * Tianyue Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition", *BMVC* 2025, (**Oral**).
 
