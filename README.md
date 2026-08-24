@@ -17,19 +17,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 
 [**2024-06**]: Championship in the open track of the AVSE Challenge @ InterSpeech 2024! Congratulations to Fei-Xiang! 
 
-[**2024-02**]: 1 paper is accepted by CVPR 2024! Congratulations to Yuan-Hang!
 
-[**2023-08**]: 3 papers are accepted by BMVC 2023! Congratulations to Bing-Quan, Song-Tao and Fei-Xiang!
-
-[**2022-06**]: Championship again of the AVA Active Speaker Challenge @ CVPR 2022! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-Hang and Su-San!
-
-[**2022-03**]: 1 paper is accepted by ICPR 2022! Congratulations to Da-Lu!
-
-[**2021-07**]: 1 paper is accepted by ICME Workshop 2021! Congratulations to Da-Lu!
-
-[**2021-07**]: 1 paper is accepted by ACM MM 2021! Congratulations to Yuan-hang and Su-San!
-
-[**2021-06**]: Champion of the AVA Active Speaker Challenge @ CVPR 2021! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-Hang and Su-San!
 
 ## Datasets
 ### CAS-VSR-MOV20: A dataset for VSR in *hard* practical conditions, MAVSR-2025@FG
