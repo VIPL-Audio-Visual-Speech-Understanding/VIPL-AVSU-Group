@@ -3,7 +3,7 @@
 This is a collection of works from the Audio-Visual Speech Understanding Group at VIPL.
 
 ## Recent News: 
-[**2026-08**]: 1 paper is accepted by EMNLP 2026! Congratulations to Zhe-chen!
+[**2026-08**]: 1 paper is accepted by EMNLP 2026（oral）! Congratulations to Zhe-chen!
 
 [**2026-04**]: 1 paper is accepted by ICPR 2026（oral）! Congratulations to Yu-Heng!
 
@@ -60,7 +60,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
   * Date: 2019/04 - 2019/08
 
 ## Publications
-* Zhechen Liu, Shuang Yang, Shiguang Shan, Xilin Chen, "FlexLTS: A Unified Paradigm for Content-Accurate Lip-to-Speech Synthesis with Optional Lip Reading", *EMNLP* 2026, 
+* Zhechen Liu, Shuang Yang, Shiguang Shan, Xilin Chen, "FlexLTS: A Unified Paradigm for Content-Accurate Lip-to-Speech Synthesis with Optional Lip Reading", *EMNLP* 2026, (**Oral**).
 
 * Yuheng Fan, Shuang Yang, Shiguang Shan, Xilin Chen, "MuS: Multilingual Synergy with Shared Representations for Visual Speech Recognition", *ICPR* 2026, (**Oral**).
   
